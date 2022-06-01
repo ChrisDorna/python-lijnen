@@ -25,4 +25,4 @@ while n>=0:
     print(yLijn)
     n=n-1
 plt.show()
-plt.legend()
+#plt.legend()
